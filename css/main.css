@@ -43,3 +43,29 @@ div > img{
 	margin: auto;
 	grid-template-columns: auto auto auto;
 }
+.coloryellow{
+	background-color:  #ffe718;
+	margin-top: 5px;
+	height: 100px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
+div > ul > li{
+	margin: auto;
+	margin-top: 1.7%;
+	display: inline-block;
+}
+div > ul > li:nth-of-type(1){
+	font-size: 20px;
+}
+div > ul > li:nth-of-type(3){
+	background-color: white;
+	padding: 13px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.img2{
+	margin: 0%;
+	width: 100%;
+}
